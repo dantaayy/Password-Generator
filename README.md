@@ -24,4 +24,8 @@ for x in range(3): # this will loop over the ASCII code and print 3 upper case l
     print(uppercases)
 
 # Now using list comprehension to put all that code in 1 line
+-> [expression for item in items]
+expression is what the function thar will happen
+item is what we will get in each iteration
+items is what we will be iterating over
 uppercases = [chr(random.randint(65, 90)) for x in range(3)]
