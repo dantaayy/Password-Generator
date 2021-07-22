@@ -15,6 +15,10 @@ same as the for loops. I quoted out the for loops
 as a reference for myself to understand the list
 comprehension better
 
+I have both versions of the program to show improvement and my steps through out.
+
+# The actual version is the updatedpw.py file that contains the clean and readable
+# code.
 EX.
 # For Loop
 
